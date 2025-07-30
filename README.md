@@ -5,7 +5,7 @@ A customizable and elegant slider component to showcase your team members or con
 ---
 
 ## 🚀 Features  
-- 👤 **Stylish member cards** : Display photos, names, roles, and social links.  
+- 👤 **Stylish member cards** : Display photos, names, roles and social links.  
 - 🔄 **Smooth sliding effect** : Navigate through team members with slick transitions.  
 - 🔍 **"View More" button** : Allows users to learn more about each member.  
 - 📱 **Responsive design** : Looks great on mobile and desktop devices.  
