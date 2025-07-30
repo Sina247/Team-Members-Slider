@@ -1,6 +1,6 @@
 # 👥 Team Members Slider
 
-A customizable and elegant slider component to showcase your team members or contributors using stylish cards with a "View More" button. Perfect for portfolios, company websites and various projects.
+A customizable and elegant slider component to showcase your team members or contributors using stylish cards with a view more button. Perfect for portfolios, company websites and various projects.
 
 ---
 
